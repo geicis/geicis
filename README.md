@@ -1,9 +1,12 @@
-## Hi there 👋
+🌻 ## olá! Meu nome é Geicislaini!
+🍄 #Seja bem vindo ao meu perfil do GitHub, você pode me chamar der geicis!
 
-<!--
-**geicis/geicis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 📓 Atualmete eu estou cursando o ultimo ano do ensino técnico integal, onde estou aprendendo programaçao.
+ 🔍 Estou aprendendo algumas linguagens, como programaçao web, laboratoria de software e ja tive aulas de java script no ano antertior.
+ 🌱 Dentro da area dessa área oque mais 
+ 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
