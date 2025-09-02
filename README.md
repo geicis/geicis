@@ -1,19 +1,34 @@
-🌻 ## olá! Meu nome é Geicislaini!
-🍄 #Seja bem vindo ao meu perfil do GitHub, você pode me chamar der geicis!
+# 🌻 Oi, bem-vindo ao meu perfil!
+Meu nome é Geicislaini e sou quase formada **Técnico em informática**.
 
- 📓 Atualmete eu estou cursando o ultimo ano do ensino técnico integal, onde estou aprendendo programaçao.
- 🔍 Estou aprendendo algumas linguagens, como programaçao web, laboratoria de software e ja tive aulas de java script no ano antertior.
- 🌱 Dentro da area dessa área oque mais 
- 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/89eb39b5-7828-43fe-8562-668978b2c575" /> 
 
 
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🐾 Sobre mim
+- 👀 Não sou muito fan dessa area de tecnologia não, mas esse é meu ultimo ano no ensino médio e eu vou conquistar junto um diploma de **Tecnico em informatica** (não me pergunte como eu vim parar aqui).
+
+- 📅 Tenho 18 anos.
+- 
+
+
+
+---
+
+## 💻 Áreas de Interesse
+
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8936aa1e-eb55-4a55-9b7e-6012a67d3a42" />
+
+---
+## 🤝 Vamos nos conectar?
+
+- 🌐 [Seu portfólio pessoal](#)
+- 💼 [LinkedIn](#)
+- 🐱 [GitHub](#)
+- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
+
+---
+
+> “Transformar ideias em ferramentas úteis é mais do que programação – é construir pontes entre o digital e o mundo real.”  
+
