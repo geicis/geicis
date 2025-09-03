@@ -1,5 +1,7 @@
 # 🌻 Oi, bem-vindo ao meu perfil!
-Meu nome é Geicislaini e sou quase formada **Técnico em informática**.
+-🌺 Meu nome é Geicislaini e sou quase formada **Técnico em informática**.
+-✨Você pode me chamar de Geicis.
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8936aa1e-eb55-4a55-9b7e-6012a67d3a42" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/89eb39b5-7828-43fe-8562-668978b2c575" /> 
 
@@ -7,18 +9,19 @@ Meu nome é Geicislaini e sou quase formada **Técnico em informática**.
 ---
 
 ## 🐾 Sobre mim
-- 👀 Não sou muito fan dessa area de tecnologia não, mas esse é meu ultimo ano no ensino médio e eu vou conquistar junto um diploma de **Tecnico em informatica** (não me pergunte como eu vim parar aqui).
-
+- 🎓 Não sou muito fan dessa área de tecnologia não, mas esse é meu último ano no ensino médio e eu vou conquistar junto um diploma de Tecnico em informatica **(não me pergunte como eu vim parar aqui👀).**
 - 📅 Tenho 18 anos.
-- 
+- 🎨 Sou uma pessoa artistica,gosto de escrever,ler,não sou muito boa com desenhos,mas amo colagens e coisas que envolvam arte.
+- 🏗️ Quero fazer faculdade de arquitetura e designer de interiores e sou apixonada por essa área desde que me entendo por gente.
+- 💻 Durante meus anos no ensino medio aprendi linguagens como: **Html, Php, Pava, Pascal, JavaScript, C**.
 
 
 
 ---
 
 ## 💻 Áreas de Interesse
+**HTML/CSS**
 
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8936aa1e-eb55-4a55-9b7e-6012a67d3a42" />
 
 ---
 ## 🤝 Vamos nos conectar?
