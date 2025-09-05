@@ -1,7 +1,9 @@
 # 🌻 Oi, bem-vindo ao meu perfil!
 -🌺 Meu nome é Geicislaini e sou quase formada **Técnico em informática**.
+
 -✨Você pode me chamar de Geicis.
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8936aa1e-eb55-4a55-9b7e-6012a67d3a42" />
+
+
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/89eb39b5-7828-43fe-8562-668978b2c575" /> 
 
@@ -20,18 +22,21 @@
 ---
 
 ## 💻 Áreas de Interesse
-**HTML/CSS**
+- Dentro dessa área a parte que mais me interessa é **HTML/CSS**
 
 
 ---
 ## 🤝 Vamos nos conectar?
 
-- 🌐 [Seu portfólio pessoal](#)
 - 💼 [LinkedIn](#)
-- 🐱 [GitHub](#)
-- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
+- 🐱 [GitHub](#geicis)
+- ✉️ .[E-mail](geicisleticia@gmail.com)
 
 ---
 
-> “Transformar ideias em ferramentas úteis é mais do que programação – é construir pontes entre o digital e o mundo real.”  
+> “Transformar ideias em ferramentas úteis é mais do que programação – é construir pontes entre o digital e o mundo real.”
+>
+> **Espero te ver por aí**
+> Bejos💋
 
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/8936aa1e-eb55-4a55-9b7e-6012a67d3a42" />
